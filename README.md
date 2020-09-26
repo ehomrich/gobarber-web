@@ -1,3 +1,17 @@
+<h1 align="center">
+  Bootcamp GoStack - módulo 3
+</h1>
+
+<h3 align="center">
+  Iniciando o front-end web:  <b>GoBarber</b>
+</h3>
+
+
+Construção do app web do GoBarber.
+
+---
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
